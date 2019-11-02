@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Kordroy</title>
+    <link>https://enrique42.github.io/tags/</link>
+    <description>Recent content in Tags on Kordroy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Oct 2019 15:40:48 -0300</lastBuildDate>
+    
+	<atom:link href="https://enrique42.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>poetry</title>
+      <link>https://enrique42.github.io/tags/poetry/</link>
+      <pubDate>Sat, 12 Oct 2019 15:40:48 -0300</pubDate>
+      
+      <guid>https://enrique42.github.io/tags/poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trees</title>
+      <link>https://enrique42.github.io/tags/trees/</link>
+      <pubDate>Sat, 12 Oct 2019 15:40:48 -0300</pubDate>
+      
+      <guid>https://enrique42.github.io/tags/trees/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time</title>
+      <link>https://enrique42.github.io/tags/time/</link>
+      <pubDate>Sat, 12 Oct 2019 15:40:41 -0300</pubDate>
+      
+      <guid>https://enrique42.github.io/tags/time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://enrique42.github.io/tags/life/</link>
+      <pubDate>Sat, 12 Oct 2019 15:32:55 -0300</pubDate>
+      
+      <guid>https://enrique42.github.io/tags/life/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
